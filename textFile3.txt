@@ -1,1 +1,1 @@
-textFile3Changing contents
+textFile3
